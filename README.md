@@ -125,8 +125,8 @@ https://github.com/user-attachments/assets/d06eb607-2bb0-4b02-9861-c7d3ba1ff7c3
 
 ## 🧑‍💻 Author
 
-**Ninad Gawali**  
-🔗 [GitHub Profile](https://github.com/NinadGawali)
+**Hitesh Dokku**  
+🔗 [GitHub Profile](https://github.com/HiteshDokku)
 
 
 
