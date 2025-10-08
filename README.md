@@ -59,7 +59,7 @@ s3://your-bucket-name/uploads/{uuid_filename}.jpg
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/HiteshDokku/ImageClassifier_AWS.git
-cd ImageSegregation_AWS
+cd ImageClassifier_AWS
 ```
 ### 2️⃣ Create a Virtual Environment
 ```bash
